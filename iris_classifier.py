@@ -1,6 +1,6 @@
 # iris_classifier.py
 # Machine Learning with scikit-learn (Iris Dataset)
-# Author: Your Name
+# Author: VarshithaMandapati
 # Description: Trains a Decision Tree on the Iris dataset, prints accuracy,
 #              predicts a sample, and saves results to iris_output.txt.
 
